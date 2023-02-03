@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Json-server is required.
+
+```sh
+json-server --watch ./db/db.json --port 3050
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

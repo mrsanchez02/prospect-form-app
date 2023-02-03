@@ -1,0 +1,24 @@
+{
+  "leads": [
+    {
+      "fullName": "Leandro Sanchez",
+      "mail": "mrsanchez.dev@gmail.com",
+      "age": "32",
+      "ranking": "79",
+      "obs": "asdf",
+      "country": "RD",
+      "active": true,
+      "id": 1
+    },
+    {
+      "fullName": "Jose",
+      "mail": "jose@me.com",
+      "age": "35",
+      "ranking": "100",
+      "obs": "Listo",
+      "country": "PR",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
